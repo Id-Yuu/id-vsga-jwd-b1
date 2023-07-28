@@ -1,5 +1,5 @@
 # Course PHP for Digitalent VSGA Junior Web Developer Program
-Junior Web Developer (JWD) merupakan salah satu Skema Pelatihan Program Vocational School Graduate Academy Digital Talent Scholarship 2023 yang berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) dengan skema Junior Web Developer. Repository ini menyimpan progres project yang sudah selesai saya kerjakan dan saya rangkum menjadi dokumentasi selama pelatihan menggunakan bahasa pemrograman PHP.
+Junior Web Developer (JWD) merupakan salah satu Skema Pelatihan Program Vocational School Graduate Academy Digital Talent Scholarship 2023 yang berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) dengan skema Junior Web Developer. Repository ini menyimpan progres project yang saya rangkum menjadi dokumentasi selama pelatihan menggunakan bahasa pemrograman PHP.
 
 ## Requirements
 - PHP 7.4 or latest version
