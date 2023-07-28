@@ -4,6 +4,10 @@ Improve C-001 and implementation UI using Bootstrap.
 ## Tag
 - Paragraph
 - Headings
+- Navbar
+- Header
+- Footer
+- Main
 - HTML Attribute
 - Style
 
