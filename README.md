@@ -43,6 +43,7 @@ id-vsga-jwd-b1
  ┃ ┗ Readme.md
  ┣ C-005
  ┃ ┗ Readme.md
+ ┃ ┗ solution.md
  ┣ C-006
  ┃ ┗ Readme.md
  ┗ C-007
