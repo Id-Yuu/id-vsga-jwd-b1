@@ -7,4 +7,4 @@ Ada beberapa solusi untuk menyelesaikan tugas `C-005` dalam membuat kalkulator s
 - `switch case`, atau
 - `function` yang didalamnya berisi `switch case` atau `if else`
 
-> Jika menggunakan html `form`, Pastikan value dapat dipanggil menggunakan perintah `$_POST` pada inputan
+> Jika menggunakan html `form` gunakan method post, dan Pastikan value dapat dipanggil menggunakan perintah `$_POST` pada inputan
