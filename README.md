@@ -33,24 +33,24 @@ Junior Web Developer (JWD) merupakan salah satu Skema Pelatihan Program _Vocatio
 ## Folder Structure
 ```sh
 id-vsga-jwd-b1
- ┣ C-001
- ┃ ┗ Readme.md
- ┣ C-002
- ┃ ┗ Readme.md
- ┣ C-003
- ┃ ┗ Readme.md
- ┣ C-004
- ┃ ┗ Readme.md
- ┣ C-005
- ┃ ┗ Readme.md
- ┃ ┗ solution.md
- ┣ C-006
- ┃ ┗ Readme.md
- ┃ ┗ solution.md
- ┣ C-007
- ┃ ┗ Readme.md
- ┃ ┗ solution.md
- ┗ Readme.md
+├─ C-001           
+│  └─ Readme.md    
+├─ C-002           
+│  └─ Readme.md    
+├─ C-003           
+│  └─ Readme.md    
+├─ C-004           
+│  └─ Readme.md    
+├─ C-005           
+│  ├─ Readme.md    
+│  └─ solution.md  
+├─ C-006           
+│  ├─ Readme.md    
+│  └─ solution.md  
+├─ C-007           
+│  ├─ Readme.md    
+│  └─ solution.md  
+└─ Readme.md
 ```
 
 ## Credits
