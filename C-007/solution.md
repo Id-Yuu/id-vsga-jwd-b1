@@ -65,3 +65,6 @@ menampilkan tombol aksi `edit` & `delete`,
 - Masing-masing pages menggunakan fungsi php `Session`, 
 - Database memiliki relasi antar tabel pada `m_transaksi`, <br>
 gunakan `Primary key` & `Foreign Key` pada database.
+
+## Source Code
+- [Perpustakaan-Sederhana](https://github.com/Id-Yuu/Simplify-Perpus)
